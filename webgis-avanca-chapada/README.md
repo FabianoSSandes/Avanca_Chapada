@@ -9,10 +9,5 @@ WebGIS interativo desenvolvido e exportado a partir do QGIS para publicação vi
 - **Recursos Hídricos:** TI_Hidrologia_SNIRH_BHO_2017_5k, TI_BaciaHidrografica_micro_BA
 - **Demografia:** TI_Setores_censitários_2022
 
-## 🚀 Como Publicar no GitHub Pages
-1. Crie um novo repositório público no GitHub.
-2. Faça o upload de todos os arquivos e pastas deste diretório.
-3. Acesse **Settings > Pages** no repositório.
-4. Em **Build and deployment > Branch**, selecione `main` e `/ (root)` e salve.
-5. Acesse seu WebGIS pelo link gerado!
+
 
